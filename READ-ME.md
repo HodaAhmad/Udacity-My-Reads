@@ -1,5 +1,5 @@
 # My Reads project
-##this is a react project designed to help users alternaete books between these states
+## this is a react project designed to help users alternaete books between these states
 
 - currently reading
 - want to read
