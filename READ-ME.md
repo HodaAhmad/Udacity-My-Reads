@@ -1,4 +1,4 @@
-#My Reads project
+# My Reads project
 ##this is a react project designed to help users alternaete books between these states
 
 - currently reading
@@ -6,16 +6,16 @@
 - read
 
 
-##To start using this application: 
+## To start using this application: 
 
 to install dependecies
-###npm install
+### npm install
 
 to run the project
-###npm start
+### npm start
 
 to test the project
-###npm test
+### npm test
 
 
 
