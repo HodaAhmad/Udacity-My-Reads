@@ -54,7 +54,6 @@ const App = () => {
                 <h1>MyReads</h1>
               </div>
               <div className="list-books-content">
-                console.console.log(books);
                 <Shelves 
                   shelf = {currentlyReading} 
                   title = 'Currently Reading'
